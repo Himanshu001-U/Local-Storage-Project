@@ -1,0 +1,31 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #cfcbcb;
+    margin: 0;
+    padding: 0;
+}
+
+#container {
+    max-width: 700px;
+    background-color: rgb(90, 191, 231);
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 3px  6px 8px rgba(0,0,0,.2);
+    margin: 0 auto;
+    text-align: center;
+}
+
+h1 {
+    font-size: 32px;
+    margin-bottom: 20px;
+}
+
+#myTextarea {
+    width: 90%;
+    padding: 15px;
+    font-size: 20px;
+    min-height: 200px;
+    border: 2px solid #ddd;
+    border-radius: 5px ;
+    resize: vertical;
+}
